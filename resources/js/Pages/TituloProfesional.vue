@@ -27,7 +27,6 @@ interface Person {
 	localidad: string;
 	programa: string;
 	facultad: string;
-	// Agrega otros campos según sea necesario
 }
 
 const form = useForm({
